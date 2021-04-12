@@ -1,8 +1,15 @@
-# Description of this "mini-project"
+# Description of this mini-project
 
 Type "make all" and run the resulting executable to see the program
 sort a randomly generated list of numbers using selection sort
 
 This is a demonstration using the well-know selection sort of how I
 like to use descriptive variables to clarify how a programmed procedure works.
+
+# TODO
+
+- Reimplement the random array generator using macros for consistency across all code,
+    especially as it is confusing to have a "DATA_TYPE_MACRO" and a "DATA_TYPE_ENUM"
+    at the same time.
+- Explain in my own words using comments how the algorithm works (maybe)
 
