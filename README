@@ -1,0 +1,8 @@
+# Description of this "mini-project"
+
+Type "make all" and run the resulting executable to see the program
+sort a randomly generated list of numbers using selection sort
+
+This is a demonstration using the well-know selection sort of how I
+like to use descriptive variables to clarify how a programmed procedure works.
+
