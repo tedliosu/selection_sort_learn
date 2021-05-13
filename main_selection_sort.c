@@ -31,7 +31,9 @@ int main(int argc, char* argv[]) {
           printf(DISPLAY_FORMAT_STR, test_array[curr_entry]);
   
   }
-  
+
+  free(test_array);
+
   return EXIT_SUCCESS;
 
 }
